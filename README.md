@@ -1,2 +1,2 @@
 # AutomationCourse
-git practise file!
+git practice file!
