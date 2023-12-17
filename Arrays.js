@@ -17,7 +17,8 @@ for (let SSS of Settt){
 console.log (SSS + 2);
 }
 
-//5. створити мапу з літерами алфівіту, і значеннями з сету {"a" : 1, "b" : 2 ....}let Arr = [1, 1, 1, 2, 3, 4, 5, 5, 66, 6, 6, 7, 77, 8, 8, 8888, 9];
+//5. створити мапу з літерами алфівіту, і значеннями з сету {"a" : 1, "b" : 2 ....}
+let Arr = [1, 1, 1, 2, 3, 4, 5, 5, 66, 6, 6, 7, 77, 8, 8, 8888, 9];
 let uniqueValuesMap = new Map();
 let alphabet = 'abcdefghijklmnopqrstuvwxyz';
 let uniqueNumbersSet = new Set();
