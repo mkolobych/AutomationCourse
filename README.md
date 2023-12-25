@@ -1,2 +1,0 @@
-# AutomationCourse
-git practice file!
